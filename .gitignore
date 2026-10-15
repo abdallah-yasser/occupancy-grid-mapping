@@ -1,0 +1,11 @@
+# Build outputs
+*.exe
+*.o
+*.out
+occupancy_grid_map
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
